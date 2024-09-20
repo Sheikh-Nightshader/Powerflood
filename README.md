@@ -4,10 +4,10 @@
  This tool is to be used for educational purposes only and I take no responibility for the use or misuse of this tool.
 
 usage: 
-
 python3 powerflood.py -h (shows help and usage)
-python3 powerflood.py -c <choice udp,tcp,http> -i <IP> -p <port> -t <times> -th <threads>
 
-python3 powerflood.py -c <http> -u <URL http only> -p <port> -t <times> -th <threads>
+python3 powerflood.py -c (choice udp,tcp,http) -i (IP) -p (port) -t (times) -th (threads)
+
+python3 powerflood.py -c (http) -u (URL http only) -p (port) -t (times) -th (threads)
 
 
